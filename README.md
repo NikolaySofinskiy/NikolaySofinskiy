@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img width="374" height="374" alt="Planet Earth GIF by European Space Agency - ESA" src="https://github.com/user-attachments/assets/b14858d8-db76-4873-aa69-40867aa6a702" />
+
 <img width="480" height="360" alt="gif" src="https://github.com/user-attachments/assets/4f8bc7de-d415-4ae3-a0f5-43ecc7a32deb" />
 
 
