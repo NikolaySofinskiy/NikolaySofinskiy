@@ -2,7 +2,6 @@
 <table style="border-collapse: collapse; border: none; border-spacing: 0; width: 100%; background: transparent;">
   <tr style="border: none; background: transparent;">
     <td align="left" style="padding: 0 25px 0 0; text-align: left; vertical-align: top; border: none; background: transparent;">
-      
       <table style="border-collapse: collapse; border: none; border-spacing: 0; background: transparent; margin: 0; padding: 0;">
         <tr style="border: none; background: transparent;">
           <td align="left" style="border: none; padding: 0 0 12px 0; background: transparent;">
@@ -34,7 +33,6 @@
           </td>
         </tr>
       </table>
-
     </td>
     <td align="center" style="padding: 0 0 0 25px; vertical-align: middle; text-align: center; border: none; background: transparent;">
       <img width="500" style="border-radius: 8px; display: block; margin: 0 auto;" alt="gif" src="https://github.com/user-attachments/assets/17f77119-eea9-4e89-acfc-763f88acf38b" />
