@@ -1,6 +1,6 @@
 ## Hi there 👋
+<img width="480" height="480" alt="Earth" src="https://github.com/user-attachments/assets/93cfa3f9-8c3d-44f9-a656-25127b538952" />
 
-<img width="480" height="480" alt="Planet Earth GIF" src="https://github.com/user-attachments/assets/d27254e6-7636-4e1b-83d8-e11f77248bc3" />
 
 <!--
 **NikolaySofinskiy/NikolaySofinskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
