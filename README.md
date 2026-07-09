@@ -1,5 +1,4 @@
 ## Hi there 👋
-<img width="374" height="374" alt="Planet Earth GIF by European Space Agency - ESA" src="https://github.com/user-attachments/assets/8ec45ee6-9872-446d-9669-730d77aedc3c" />
 
 <!--
 **NikolaySofinskiy/NikolaySofinskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
