@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img width="480" height="360" alt="gif" src="https://github.com/user-attachments/assets/4f8bc7de-d415-4ae3-a0f5-43ecc7a32deb" />
+
 
 <!--
 **NikolaySofinskiy/NikolaySofinskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
