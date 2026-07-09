@@ -1,44 +1,7 @@
 ## Hi there 👋
-<table style="border-collapse: collapse; border: none; border-spacing: 0; width: 100%; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" style="padding: 0 25px 0 0; text-align: left; vertical-align: top; border: none; background: transparent;">
-      <table style="border-collapse: collapse; border: none; border-spacing: 0; background: transparent; margin: 0; padding: 0;">
-        <tr style="border: none; background: transparent;">
-          <td align="left" style="border: none; padding: 0 0 12px 0; background: transparent;">
-            <img width="290" style="border-radius: 8px; display: block;" alt="AirFlow" src="https://github.com/user-attachments/assets/602ce278-5528-42fc-bde3-04a82abd5c0d" />
-          </td>
-        </tr>
-        <tr style="border: none; background: transparent;">
-          <td align="left" style="border: none; padding: 0 0 12px 0; background: transparent;">
-            <img width="180" style="border-radius: 8px; display: block;" alt="PostgreSQL" src="https://github.com/user-attachments/assets/4072722b-414e-4e4a-8a8d-b185bdc693dc" />
-          </td>
-        </tr>
-        <tr style="border: none; background: transparent;">
-          <td align="left" style="border: none; padding: 0 0 12px 0; background: transparent;">
-            <img width="250" style="border-radius: 8px; display: block;" alt="Python" src="https://github.com/user-attachments/assets/e0d423f3-e4ce-467d-b5e6-07d17444415a" />
-          </td>
-        </tr>
-        <tr style="border: none; background: transparent;">
-          <td align="left" style="border: none; padding: 0; background: transparent;">
-            <table style="border-collapse: collapse; border: none; border-spacing: 0; background: transparent; margin: 0; padding: 0;">
-              <tr style="border: none; background: transparent;">
-                <td align="left" style="border: none; padding: 0 15px 0 0; vertical-align: middle; background: transparent;">
-                  <img width="95" style="border-radius: 8px; display: block;" alt="Git" src="https://github.com/user-attachments/assets/622a11df-4030-4943-a91c-08c585ad2ff8" />
-                </td>
-                <td align="left" style="border: none; padding: 0; vertical-align: middle; background: transparent;">
-                  <img width="140" style="border-radius: 8px; display: block;" alt="DataLens" src="https://github.com/user-attachments/assets/74d20f1d-be50-461f-abb2-2f2c2fd73a87" />
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center" style="padding: 0 0 0 25px; vertical-align: middle; text-align: center; border: none; background: transparent;">
-      <img width="500" style="border-radius: 8px; display: block; margin: 0 auto;" alt="gif" src="https://github.com/user-attachments/assets/17f77119-eea9-4e89-acfc-763f88acf38b" />
-    </td>
-  </tr>
-</table>
+|  |  |
+| :--- | :---: |
+| <img width="290" alt="AirFlow" src="https://github.com/user-attachments/assets/38643d4c-b914-42bc-a630-50c9fe9d5181" /> <br><br> <img width="180" alt="PostgreSQL" src="https://github.com/user-attachments/assets/89b21b56-c569-42b9-b2e9-faa3825d26e8" /> <br><br> <img width="250" alt="Python" src="https://github.com/user-attachments/assets/b9b39317-fa94-4686-b674-46ab2a12028b" /> <br><br> <img width="95" alt="Git" src="https://github.com/user-attachments/assets/ee11bb91-392d-4390-8db3-76d5400467d8" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="140" alt="DataLens" src="https://github.com/user-attachments/assets/5ad5c566-0f4d-4f93-93bd-ca7d67ec642e" /> | <img width="500" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" /> |
 
 <!--
 **NikolaySofinskiy/NikolaySofinskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
