@@ -1,15 +1,13 @@
 ## Hi there 👋
 <table>
   <tr>
-    <td style="width: 30%; vertical-align: top; padding-right: 10px;">
-      <img width="100%" style="border-radius: 6px;" alt="AirFlow" src="https://github.com/user-attachments/assets/305bedd3-084d-460f-b1aa-f2c2a3508236" />
-      <br><br>
-      <img width="100%" style="border-radius: 6px;" alt="PostgreSQL" src="https://github.com/user-attachments/assets/d5b8351e-d89b-4a19-bdde-80fecbf5a949" />
-      <br><br>
-      <img width="100%" style="border-radius: 6px;" alt="Python" src="https://github.com/user-attachments/assets/448c2f37-1335-4095-ad4b-82338bc37fb9" />
+    <td style="padding-right: 20px;">
+      <img width="180" style="border-radius: 8px; display: block; margin-bottom: 10px;" alt="AirFlow" src="https://github.com/user-attachments/assets/305bedd3-084d-460f-b1aa-f2c2a3508236" />
+      <img width="180" style="border-radius: 8px; display: block; margin-bottom: 10px;" alt="PostgreSQL" src="https://github.com/user-attachments/assets/d5b8351e-d89b-4a19-bdde-80fecbf5a949" />
+      <img width="180" style="border-radius: 8px; display: block;" alt="Python" src="https://github.com/user-attachments/assets/448c2f37-1335-4095-ad4b-82338bc37fb9" />
     </td>
-    <td style="width: 70%; vertical-align: middle; text-align: center; padding-left: 10px;">
-      <img width="100%" style="border-radius: 6px;" alt="gif" src="https://github.com/user-attachments/assets/17f77119-eea9-4e89-acfc-763f88acf38b" />
+    <td style="padding-left: 20px;">
+      <img width="500" style="border-radius: 8px;" alt="gif" src="https://github.com/user-attachments/assets/17f77119-eea9-4e89-acfc-763f88acf38b" />
     </td>
   </tr>
 </table>
