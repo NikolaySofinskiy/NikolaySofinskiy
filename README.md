@@ -10,7 +10,7 @@
         </tr>
         <tr style="border: none; background: transparent;">
           <td align="left" style="border: none; padding: 0 0 12px 0; background: transparent; text-align: left;">
-            <img width="180" style="border-radius: 8px; display: block;" alt="PostgreSQL" src="https://github.com/user-attachments/assets/d5b8351e-d89b-4a19-bdde-80fecbf5a949" />
+            <img width="95" style="border-radius: 8px; display: block;" alt="Git" src="https://github.com/user-attachments/assets/61286cfd-d26d-4e7e-9435-ca403c8a6d93" />
           </td>
         </tr>
         <tr style="border: none; background: transparent;">
@@ -20,12 +20,12 @@
         </tr>
         <tr style="border: none; background: transparent;">
           <td align="left" style="border: none; padding: 0 0 12px 0; background: transparent; text-align: left;">
-            <img width="95" style="border-radius: 8px; display: block;" alt="Git" src="https://github.com/user-attachments/assets/61286cfd-d26d-4e7e-9435-ca403c8a6d93" />
+            <img width="120" style="border-radius: 8px; display: block;" alt="DataLens" src="https://github.com/user-attachments/assets/610317d0-3f79-4ba0-a283-636a0a2ad86b" />
           </td>
         </tr>
         <tr style="border: none; background: transparent;">
           <td align="left" style="border: none; padding: 0; background: transparent; text-align: left;">
-            <img width="120" style="border-radius: 8px; display: block;" alt="DataLens" src="https://github.com/user-attachments/assets/610317d0-3f79-4ba0-a283-636a0a2ad86b" />
+            <img width="180" style="border-radius: 8px; display: block;" alt="PostgreSQL" src="https://github.com/user-attachments/assets/d5b8351e-d89b-4a19-bdde-80fecbf5a949" />
           </td>
         </tr>
       </table>
@@ -34,8 +34,7 @@
       <img width="500" style="border-radius: 8px; display: block; margin: 0 auto;" alt="gif" src="https://github.com/user-attachments/assets/17f77119-eea9-4e89-acfc-763f88acf38b" />
     </td>
   </tr>
-</table>
-       
+</table>       
 <!--
 **NikolaySofinskiy/NikolaySofinskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
