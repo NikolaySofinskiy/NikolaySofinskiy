@@ -19,6 +19,8 @@
     <img width="120" style="border-radius: 8px;" alt="DataLens" src="https://github.com/user-attachments/assets/5ad5c566-0f4d-4f93-93bd-ca7d67ec642e" />
   </div>
 </div>
+
 <br clear="right" />
+
 <h2>Привет, меня зовут Николай! 👋</h2>
 <h3>Занимаюсь аналитикой данных 📈</h3>
