@@ -11,7 +11,7 @@
       <img width="350" align="right" style="border-radius: 8px; display: block; float: right; margin: 0 0 0 auto; border: none !important;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
     </td>
     <td align="right" style="padding: 0 0 0 25px; vertical-align: middle; text-align: right; border: none !important; border-width: 0 !important; border-style: hidden !important; background: transparent; box-shadow: none;">
-      <img width="250" height="250" style="border-radius: 8px; display: block; float: right; margin: 0 0 0 auto; border: none !important; object-fit: cover;" alt="Earth GIF" src="https://github.com/user-attachments/assets/b6507075-14f6-42ae-8c97-052ea0ba1119" />
+      <img width="250" height="250" style="border-radius: 8px; display: block; float: right; margin: 0 0 0 auto; border: none !important; object-fit: cover;" alt="Earth" src="https://github.com/user-attachments/assets/57d74ec0-54f1-4b00-8d6a-c30bf5acb635" />
     </td>
   </tr>
 </table>
