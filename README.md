@@ -15,8 +15,8 @@
     </td>
   </tr>
 </table>
-Привет, меня зовут Николай! 👋
-Занимаюсь аналитикой данных 📈
+## Привет, меня зовут Николай! 👋  
+### Занимаюсь аналитикой данных 📈
 <!--
 **NikolaySofinskiy/NikolaySofinskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
