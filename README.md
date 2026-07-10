@@ -8,7 +8,7 @@
       <img width="120" style="border-radius: 8px; margin: 5px 0 0 0; padding: 0; border: none !important;" alt="DataLens" src="https://github.com/user-attachments/assets/5ad5c566-0f4d-4f93-93bd-ca7d67ec642e" />
     </td>
     <td align="right" style="padding: 0 0 0 25px; vertical-align: middle; text-align: right; border: none !important; border-width: 0 !important; border-style: hidden !important; background: transparent; box-shadow: none; width: 100%;">
-      <img width="400" align="right" style="border-radius: 8px; display: block; float: right; margin: 0 0 0 auto; border: none !important;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
+      <img width="350" align="right" style="border-radius: 8px; display: block; float: right; margin: 0 0 0 auto; border: none !important;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
     </td>
   </tr>
 </table>
