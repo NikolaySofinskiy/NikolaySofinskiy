@@ -1,9 +1,9 @@
-![gif](https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2)
+<img width="300" align="right" style="border-radius: 8px; margin-left: 20px;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
 
-**# Привет, меня зовут Николай! 👋**  
-**## Занимаюсь аналитикой данных 📈**  
+# Привет, меня зовут Николай! 👋
+## Занимаюсь аналитикой данных 📈
 
----
+<br clear="right" />
 
 ### 🛠️ Инструменты и технологии
 * **Языки программирования:** Python (Pandas, NumPy, SciPy, Seaborn, Pingouin)
