@@ -1,5 +1,7 @@
-<span style="font-size: 32px; font-weight: bold; display: block; line-height: 1.2;">Привет, меня зовут Николай! 👋</span>
-<span style="font-size: 22px; font-weight: bold; color: #555; display: block; line-height: 1.2; margin-top: 5px;">Занимаюсь аналитикой данных 📈</span>
+<div style="margin-top: 0px; line-height: 1.2;">
+  <div style="font-size: 32px; font-weight: bold; margin-bottom: 5px;">Привет, меня зовут Николай! 👋</div>
+  <div style="font-size: 22px; font-weight: bold; color: #555;">Занимаюсь аналитикой данных 📈</div>
+</div>
 
 <br />
 
