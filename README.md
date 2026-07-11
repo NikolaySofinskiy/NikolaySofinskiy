@@ -4,8 +4,8 @@
 
   <!-- Текст приветствия, который будет располагаться слева -->
   <div style="overflow: hidden;">
-    <p style="font-size: 30px; font-weight: bold; margin-top: 0; margin-bottom: 10px;">Привет, меня зовут Николай! 👋</p>
-    <p style="font-size: 22px; font-weight: bold; color: #555; margin-top: 0;">Занимаюсь аналитикой данных 📈</p>
+    <p style="font-size: 40px; font-weight: bold; margin-top: 0; margin-bottom: 10px;">Привет, меня зовут Николай! 👋</p>
+    <p style="font-size: 30px; font-weight: bold; color: #555; margin-top: 0;">Занимаюсь аналитикой данных 📈</p>
   </div>
 </div>
 
