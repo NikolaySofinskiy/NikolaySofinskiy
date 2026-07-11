@@ -4,7 +4,7 @@
 <img width="300" align="right" style="border-radius: 8px; margin-left: 20px; float: right; margin-top: 50px;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
 
 ### 🛠️ Инструменты и технологии
-* **Языки программирования:** Python (Pandas, NumPy, Matplotlib, Seaborn, Pingouin)
+* **Языки программирования:** Python (Pandas, NumPy, Matplotlib, Pingouin)
 * **Базы данных & SQL:** PostgreSQL (JOIN, CTE, оконные функции)
 * **Оркестрация & Автоматизация:** Airflow (DAG с использованием Taskflow API)
 * **Визуализация данных:** DataLens (интерактивные дашборды)
