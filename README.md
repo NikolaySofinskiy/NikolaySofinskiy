@@ -6,8 +6,8 @@
 ### 🛠️ Инструменты и технологии
 * **Языки программирования:** Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Pingouin, Statsmodels)
 * **Базы данных & SQL:** PostgreSQL (JOIN, CTE, оконные функции)
-* **Оркестрация & Автоматизация:** Airflow (написание кастомных DAG с использованием Taskflow API)
-* **Визуализация данных:** DataLens (проектирование интерактивных дашбордов на основе Dashboard Canvas)
+* **Оркестрация & Автоматизация:** Airflow (DAG с использованием Taskflow API)
+* **Визуализация данных:** DataLens (интерактивные дашборды)
 * **Контроль версий:** Git, GitLab, GitHub
 * **Офисные инструменты:** MS Excel
 
