@@ -1,7 +1,7 @@
 ### Привет, меня зовут Николай! 👋
 ### Занимаюсь аналитикой данных 📈
 
-<br />
+<img width="300" align="right" style="border-radius: 8px; margin-left: 20px; float: right; margin-top: 50px;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
 
 ### 🛠️ Инструменты и технологии
 * **Языки программирования:** Python (Pandas, NumPy, SciPy, Seaborn, Pingouin)
@@ -12,8 +12,6 @@
 * **Офисные инструменты:** MS Excel
 
 ---
-
-<img width="300" align="right" style="border-radius: 8px; margin-left: 20px; float: right; margin-top: 10px;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
 
 ### 📊 Аналитические компетенции и опыт
 * **Статистика & Проверка гипотез:** применение теории вероятностей и статистических критериев (t-тест, дисперсионный анализ, критерий Манна-Уитни, расчет p-value и корреляций). Использование метода **Bootstrap** для оценки распределений и проверки гипотез на реальных данных.
