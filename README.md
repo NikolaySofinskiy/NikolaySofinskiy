@@ -1,13 +1,14 @@
 ### Привет, меня зовут Николай! 👋
 ### Занимаюсь аналитикой данных 📈
 
+<img width="300" align="right" style="border-radius: 8px; margin-left: 20px; float: right; margin-top: 130px;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
+
 ### 🛠️ Инструменты и технологии
 * **Языки программирования:** Python (Pandas, NumPy, SciPy, Seaborn, Pingouin)
 * **Базы данных & SQL:** PostgreSQL (написание сложных запросов, оконные функции, агрегации)
 * **Оркестрация & Автоматизация:** Airflow (написание кастомных DAG с использованием Taskflow API)
 * **Визуализация данных:** DataLens (проектирование интерактивных дашбордов на основе Dashboard Canvas)
 * **Контроль версий:** Git, GitLab, GitHub
-<img width="300" align="right" style="border-radius: 8px; margin-left: 20px; float: right;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
 * **Офисные инструменты:** MS Excel
 
 ---
