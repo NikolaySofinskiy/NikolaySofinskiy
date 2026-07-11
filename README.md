@@ -1,12 +1,9 @@
-<img width="300" align="right" style="border-radius: 8px; margin-left: 25px; margin-bottom: 20px;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
+![gif](https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2)
 
-<div style="margin-top: 15px; line-height: 2.2;">
-  <span style="font-size: 24px; font-weight: 900;">Привет, меня зовут Николай! 👋</span>
-  <br />
-  <span style="font-size: 18px; font-weight: 800; color: #333;">Занимаюсь аналитикой данных 📈</span>
-</div>
+**# Привет, меня зовут Николай! 👋**  
+**## Занимаюсь аналитикой данных 📈**  
 
-<br clear="right" />
+---
 
 ### 🛠️ Инструменты и технологии
 * **Языки программирования:** Python (Pandas, NumPy, SciPy, Seaborn, Pingouin)
