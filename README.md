@@ -1,14 +1,14 @@
 <!-- Гифка, прижатая к правому краю -->
-<img width="300" align="right" style="border-radius: 8px; margin-left: 25px; margin-bottom: 10px;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
+<img width="300" align="right" style="border-radius: 8px; margin-left: 25px; margin-bottom: 20px;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
 
 <!-- Текст приветствия слева -->
 <div style="margin-top: 15px; line-height: 2.2;">
-  <span style="font-size: 24px; font-weight: bold;">Привет, меня зовут Николай! 👋</span>
+  <span style="font-size: 24px; font-weight: 900; font-family: sans-serif;">Привет, меня зовут Николай! 👋</span>
   <br />
-  <span style="font-size: 18px; font-weight: bold; color: #555;">Занимаюсь аналитикой данных 📈</span>
+  <span style="font-size: 18px; font-weight: 800; color: #333; font-family: sans-serif;">Занимаюсь аналитикой данных 📈</span>
 </div>
 
-<br clear="right" />
+<br />
 
 ### 🛠️ Инструменты и технологии
 * **Языки программирования:** Python (Pandas, NumPy, SciPy, Seaborn, Pingouin)
@@ -25,3 +25,5 @@
 * **Продуктовая аналитика & A/B-тесты:** проектирование и проведение контролируемых экспериментов (от расчета минимального размера выборки до оценки результатов), проведение когортного анализа (Retention, PMF).
 * **Метрики & Юнит-экономика:** расчет и мониторинг ключевых продуктовых показателей — **CR** (коэффициент конверсии), **ARPU**, **ARPPU**, моделирование и анализ **юнит-экономики** продукта для поиска точек роста.
 * **Автоматизация процессов:** проектирование и развертывание регулярных workflow-процессов (ETL/ELT) в Airflow для сбора данных, расчета продуктовых метрик и автоматической отчетности.
+
+<br clear="right" />
