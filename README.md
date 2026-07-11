@@ -1,7 +1,7 @@
-<img width="300" align="right" style="border-radius: 8px; margin-left: 20px;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
+<img width="300" align="right" style="border-radius: 8px; margin-left: 20px; float: right;" alt="gif" src="https://github.com/user-attachments/assets/06758d04-6dc9-47fc-8ffd-6d1f333fccc2" />
 
-# Привет, меня зовут Николай! 👋
-## Занимаюсь аналитикой данных 📈
+<span style="font-size: 32px; font-weight: bold; display: block; line-height: 1.2;">Привет, меня зовут Николай! 👋</span>
+<span style="font-size: 22px; font-weight: bold; color: #555; display: block; line-height: 1.2; margin-top: 5px;">Занимаюсь аналитикой данных 📈</span>
 
 <br clear="right" />
 
