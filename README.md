@@ -5,11 +5,11 @@
 
 ### 🛠️ Инструменты и технологии
 * **Языки программирования:** Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Pingouin, Statsmodels)
-* **Базы данных & SQL:** PostgreSQL (JOIN, CTE, оконные функции)
+* **Базы данных & SQL:** PostgreSQL, ClickHouse (JOIN, CTE, оконные функции)
 * **Оркестрация & Автоматизация:** Airflow (DAG с использованием Taskflow API)
-* **Визуализация данных:** DataLens (интерактивные дашборды)
+* **Визуализация данных:** Power BI, DataLens (интерактивные дашборды)
 * **Контроль версий:** Git, GitLab, GitHub
-* **Офисные инструменты:** MS Excel (Power Query)
+* **Офисные инструменты:** MS Excel (Power Query, Power Pivot)
 
 <br clear="right" />
 
