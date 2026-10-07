@@ -11,7 +11,6 @@
 * **Контроль версий:** Git, GitLab, GitHub
 * **Офисные инструменты:** MS Excel (Power Query, Power Pivot)
 
-<br clear="right" />
 ---
 
 ### 📊 Аналитические компетенции и опыт
